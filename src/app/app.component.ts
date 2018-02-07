@@ -1,3 +1,5 @@
+import {Widget} from './widget';
+
 import { Component } from '@angular/core';
 
 @Component({
